@@ -1924,6 +1924,7 @@ font-size:14px;
 .top_cont_outer {
   position: relative;
   height: 100vh;
+  min-height: 450px;
 }
 .top_left_cont {
 padding: 38px 0;
